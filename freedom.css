@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.freedom {
+  width: 100%;
+}
+
+.freedom-main {
+  position: relative;
+}
+
+.freedom-title {
+  position: absolute;
+  text-align: center;
+  top: 0;
+  padding: 100px;
+}
